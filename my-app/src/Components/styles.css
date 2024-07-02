@@ -1,0 +1,50 @@
+#contact{
+    color:cornflowerblue;
+    text-align: right;
+    margin-left: 50px;
+    font-family: 'fredoka', sans-serif;
+    font-size: 20px;
+
+}
+.contactimg{
+    height:450px;
+    width: auto;
+}
+.navbar{
+    background-color:ivory;
+}
+.modal-box{
+    background-color:none;
+}
+.contact_name{
+    display: flex;
+}
+.contact{
+    display: flex;
+    
+}
+.contactform{
+   margin-left: 300px;
+   border-radius: 10%;
+   
+   width:500px;
+  
+}
+.write{
+    color:dodgerblue;
+    text-align: center;
+    font-size: 50px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+    
+
+}
+.form{
+  
+    margin: 50px;
+    margin-left: 50px;
+}
+.bookLib{
+    height:auto;
+    width:auto;
+}
